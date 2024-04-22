@@ -1,7 +1,5 @@
 package org.example.Functions
 
-import jdk.javadoc.internal.doclint.Messages
-
 fun main() {
 
     fun printAll(vararg messages: String) {
